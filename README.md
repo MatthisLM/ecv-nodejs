@@ -4,6 +4,8 @@ Christopher Dolbert/christopher.dolbert@mail-ecv.fr
 
 dependependencies
 - express
+- jsonwebtoken
+- bcrypt
 
 dev dependencies
 - nodemon
