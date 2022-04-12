@@ -1,5 +1,7 @@
 const express = require('express');
 const router = express.Router();
+// const bcrypt = require('bcrypt');
+// const jwt = require('jsonwebtoken');
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
