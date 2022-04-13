@@ -15,8 +15,7 @@ dependependencies
 - sequelize-cli
 - sqlite3
 - axios
-
-
+- dotenv
 - jsonwebtoken
 - bcrypt
 
